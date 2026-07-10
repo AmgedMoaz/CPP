@@ -30,7 +30,7 @@ g++ filename.cpp -o output
 
 **Amged Moaz**
 
-* GitHub: **@AmgedMoaz**
+- GitHub: [@AmgedMoaz](https://github.com/AmgedMoaz)
 * Email: **[amgedmoaz7@gmail.com](mailto:amgedmoaz7@gmail.com)**
 
 ## ⭐ Support
