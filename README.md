@@ -14,8 +14,7 @@ This repository contains my C++ learning journey, including language fundamental
 
 ```text
 CPP/
-├── Basics/
-├── Problem Solving/
+├── Begining/
 ├── Projects/
 └── ...
 ```
